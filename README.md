@@ -1,2 +1,2 @@
 # MVibes
- Social platform for music lovers
+ Social platform for music lovers built with PHP and Codeignitor.
